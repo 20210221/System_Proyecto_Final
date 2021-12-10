@@ -18,9 +18,9 @@ En este repositorio se encuentran los archivos del proyecto final de Programaci�
 
 -`test/`: Contiene los archivos complementarios del entorno de desarrollo (Puede Obviar Esta Carpeta).
 
--`build.xml`: Contiene los datos complementarios del entorno de desarrollo (Puede Obviar Esta Carpeta).
+-`build.xml`: Contiene los datos complementarios del entorno de desarrollo (Puede Obviar Este Archivo).
 
--`manifest.mf`: Contiene los datos complementarios del entorno de desarrollo (Puede Obviar Esta Carpeta).
+-`manifest.mf`: Contiene los datos complementarios del entorno de desarrollo (Puede Obviar Este Archivo).
 
 # Dependecias:
 -`mysql-connector-java-8.0.27`: Archivo que permite la conexión e interacción de la aplicación con la base de datos del servidor remoto.
